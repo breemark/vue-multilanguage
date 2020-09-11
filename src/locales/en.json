@@ -1,3 +1,6 @@
 {
+  "main": {
+    "welcome": "Hello from {company}!"
+  },
   "message": "hello i18n !!"
 }
